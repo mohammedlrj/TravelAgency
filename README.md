@@ -21,3 +21,5 @@
   <li>Un système d'authentification sécurisé. Les utilisateurs peuvent s'inscrire pour recevoir des offres spéciales.</li>
   <li>Un design responsive mobile et interface utilisateur moderne.</li>
 </ul>
+<h3>Maquette</h3>
+<h4>Home Page</h4>
