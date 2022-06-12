@@ -23,4 +23,4 @@
 </ul>
 <h3>Maquette</h3>
 <h5 align="center">Home Page</h5>
-<img src="https://user-images.githubusercontent.com/105529104/173239305-ab7c04ad-2693-4111-aa5b-6f461e8dd66a.PNG">
+<img src="https://user-images.githubusercontent.com/105529104/173239505-c81b69e7-c930-455e-9abe-a8ef0caf7c8d.PNG">
