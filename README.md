@@ -23,4 +23,4 @@
 </ul>
 <h3>Maquette</h3>
 <h5 align="center">Home Page</h5>
-<img src="C:\Users\DELL LATITUDE 7300\Pictures\worldcoast\1.png">
+
