@@ -22,4 +22,4 @@
   <li>Un design responsive mobile et interface utilisateur moderne.</li>
 </ul>
 <h3>Maquette</h3>
-<h4>Home Page</h4>
+<h5 align="center">Home Page</h5>
