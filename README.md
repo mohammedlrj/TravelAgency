@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Laarej Mohammed</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h1 align="center">Bonjour 👋, Je suis LAAREJ Mohammed</h1>
+<h3 align="center">Un développeur marocain passionné par le front-end</h3>
 
-- 🔭 I’m currently working on [Travel Agency](https://github.com/mohammedlrj/TravelAgency)
+- 🔭 Je travaille actuellement sur [Travel Agency](https://github.com/mohammedlrj/TravelAgency)
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 J'apprends actuellement **Frameworks**
 
-- 📫 How to reach me **mohammedlaarej0@gmail.com**
+- 📫 Comment me joindre **mohammedlaarej0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
