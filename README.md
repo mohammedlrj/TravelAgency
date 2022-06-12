@@ -18,4 +18,6 @@
 <ul>
   <li>Worldcoast est un site web d'agence de voyage qui génère des vols disponibles dans le monde entier.</li>
   <li>Les utilisateurs peuvent trouver les dates des vols disponibles en saisissant le lieu de départ et de destination.</li>
+  <li>Un système d'authentification sécurisé. Les utilisateurs peuvent s'inscrire pour recevoir des offres spéciales.</li>
+  <li>Un design responsive mobile et interface utilisateur moderne.</li>
 </ul>
