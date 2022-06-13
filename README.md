@@ -23,7 +23,7 @@
 </ul>
 <h3>💻Maquette:</h3>
 <h4 align="center">🌑Home Page</h4>
-<img src="https://user-images.githubusercontent.com/105529104/173239505-c81b69e7-c930-455e-9abe-a8ef0caf7c8d.PNG">
+<img src="https://user-images.githubusercontent.com/105529104/173239505-c81b69e7-c930-455e-9abe-a8ef0caf7c8d.PNG"></br>
 <h4 align="center">🌑About</h4>
 <img src="https://user-images.githubusercontent.com/105529104/173353162-494443ae-37d9-435f-a7b0-9f4d8ea5143f.PNG">
 <h4 align="center">🌑Experiences</h4>
