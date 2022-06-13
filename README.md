@@ -17,10 +17,22 @@
 <h3>Description du projet:</h3>
 <ul>
   <li>Worldcoast est un site web d'agence de voyage qui génère des vols disponibles dans le monde entier.</li>
-  <li>Les utilisateurs peuvent trouver les dates des vols disponibles en saisissant le lieu de départ et de destination.</li>
+  <li>Les utilisateurs peuvent trouver les dates des vols disponibles en saisissant le lieu de départ et d'arrivée.</li>
   <li>Un système d'authentification sécurisé. Les utilisateurs peuvent s'inscrire pour recevoir des offres spéciales.</li>
   <li>Un design responsive mobile et interface utilisateur moderne.</li>
 </ul>
 <h3>Maquette</h3>
 <h5 align="center">Home Page</h5>
 <img src="https://user-images.githubusercontent.com/105529104/173239505-c81b69e7-c930-455e-9abe-a8ef0caf7c8d.PNG">
+<h5 align="center">About</h5>
+<img src="https://user-images.githubusercontent.com/105529104/173353162-494443ae-37d9-435f-a7b0-9f4d8ea5143f.PNG">
+<h5 align="center">Experiences</h5>
+<img src="https://user-images.githubusercontent.com/105529104/173353400-69fbe52a-55fd-4f09-9946-433028c77001.PNG">
+<h5 align="center">Destination</h5>
+<img src="https://user-images.githubusercontent.com/105529104/173353730-634347f6-ed79-4262-aa35-03330df2de67.PNG">
+<h5 align="center">Services</h5>
+<img src="https://user-images.githubusercontent.com/105529104/173353984-c0a387a0-a177-4bd6-a925-7aee3d9040af.PNG">
+<h5 align="center">Blogs & Posts</h5>
+<img src="https://user-images.githubusercontent.com/105529104/173354126-5e6f6025-2c73-476c-aab8-0fd727f65df7.PNG">
+<h5 align="center">Quick Links & Contact Info & Newletter</h5>
+<img src="https://user-images.githubusercontent.com/105529104/173354507-728e6d9e-eace-4b34-8b89-06bda7cd9517.PNG">
